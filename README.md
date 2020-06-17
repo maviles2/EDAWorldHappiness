@@ -1,4 +1,4 @@
-# EDAWorldHappiness
+# World Happiness Analysis
 
 "World Happiness Report" 2015/2016 
 
